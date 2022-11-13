@@ -13,3 +13,10 @@ Later chapters in this course will teach us how to prepare our data by extractin
 Kickstarter is a crowdfunding platform where creators can gather interest on a project they'd like to launch. The general public, also called backers, can invest and send these projects into production. The dataset we have contains data on all projects in the games category hosted on Kickstarter in 2019.
 
 We just heard that there is a new backer for a game called Iwari. This person is willing to invest $1000 in the project. This means the data needs to be updated. Both the backers count as the amount pledged need to be adjusted.
+
+### Excel Shortcuts
+
+Shortcut	Description
+- CMD/CTRL + Arrow Key: Move to the edge of the current data region
+- CMD/CTRL + F:	Find a value
+- CMD/CTRL + G:	Go to a specific cell
