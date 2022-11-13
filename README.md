@@ -23,7 +23,7 @@ Shortcut	Description
 
 ### Data Types in Excel
 
-- Text
-- Number
-- Date
-- Boolean
+- Text (Left-aligned)
+- Number (Right-aligned)
+- Date (Right-aligned)
+- Boolean (Center-aligned)
