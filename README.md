@@ -20,3 +20,10 @@ Shortcut	Description
 - CMD/CTRL + Arrow Key: Move to the edge of the current data region
 - CMD/CTRL + F:	Find a value
 - CMD/CTRL + G:	Go to a specific cell
+
+### Data Types in Excel
+
+- Text
+- Number
+- Date
+- Boolean
